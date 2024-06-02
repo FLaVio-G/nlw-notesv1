@@ -1,3 +1,5 @@
+Projeto feito baseado no curso da Rockeseat
+
 Bloco de notas 📝✨
 
 Bloco de notas é uma aplicação de notas simples e elegante, projetada para tornar o gerenciamento de suas notas uma experiência incrível, nunca foi tão fácil manter suas ideias organizadas.
@@ -12,6 +14,7 @@ Principais Recursos
 Tecnologias Utilizadas
 React: Para a construção da interface do usuário dinâmica e responsiva.
 TypeScript: Para garantir um código mais robusto e escalável.
+TailwindCSS : Para estilizar da melhor forma
 
 Como Usar
 Clone este repositório: git clone 
