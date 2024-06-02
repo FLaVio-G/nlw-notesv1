@@ -1,6 +1,7 @@
 Projeto feito baseado no curso da Rockeseat
 
 Bloco de notas 📝✨
+Link do projeto: https://nlw-notesv1.netlify.app
 
 Bloco de notas é uma aplicação de notas simples e elegante, projetada para tornar o gerenciamento de suas notas uma experiência incrível, nunca foi tão fácil manter suas ideias organizadas.
 
