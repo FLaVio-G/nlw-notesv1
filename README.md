@@ -23,6 +23,9 @@ Inicie o servidor de desenvolvimento: npm start
 
 Acesse a aplicação no seu navegador: http://localhost:3000
 
+![image](https://github.com/FLaVio-G/nlw-notesv1/assets/56455753/7b642bc0-3f73-4bb6-9cfc-a8f49ddd8b3d)
+
+
 
 Autor
 Desenvolvido por Flávio Viana
