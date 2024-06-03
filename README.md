@@ -1,30 +1,32 @@
-# React + TypeScript + Vite
+Projeto feito baseado no curso da Rockeseat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bloco de notas 📝✨
+Link do projeto: https://nlw-notesv1.netlify.app
 
-Currently, two official plugins are available:
+Bloco de notas é uma aplicação de notas simples e elegante, projetada para tornar o gerenciamento de suas notas uma experiência incrível, nunca foi tão fácil manter suas ideias organizadas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Principais Recursos
+✨ Criação de Notas Simples: Crie e personalize suas notas com facilidade.
 
-## Expanding the ESLint configuration
+🔍 Pesquisa Avançada: Encontre suas notas rapidamente usando a funcionalidade de pesquisa.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+🗑️ Exclusão de Notas: Exclua notas com um único clique para manter sua lista limpa.
 
-- Configure the top-level `parserOptions` property like this:
+Tecnologias Utilizadas
+React: Para a construção da interface do usuário dinâmica e responsiva.
+TypeScript: Para garantir um código mais robusto e escalável.
+TailwindCSS : Para estilizar da melhor forma
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+Como Usar
+Clone este repositório: git clone 
+Instale as dependências: npm install
+Inicie o servidor de desenvolvimento: npm start
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Acesse a aplicação no seu navegador: http://localhost:3000
+
+![image](https://github.com/FLaVio-G/nlw-notesv1/assets/56455753/7b642bc0-3f73-4bb6-9cfc-a8f49ddd8b3d)
+
+
+
+Autor
+Desenvolvido por Flávio Viana
